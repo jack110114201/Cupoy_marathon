@@ -498,10 +498,10 @@ author_CavendishJr
 4. 依據目標對象的文章內容分別以文字雲的方式作呈現
 	* 文字雲的製作流程同前所述。
 
-akway
+#### akway
 ![image](http://clubfile.cupoy.com/0000017E472852B5000000026375706F795F72656C656173654B5741535354434C55424E455753/1641962487685/large)
 
-CavendishJr
+#### CavendishJr
 ![image](http://clubfile.cupoy.com/0000017E472852B5000000026375706F795F72656C656173654B5741535354434C55424E455753/1641962487686/large)
 
 
@@ -552,10 +552,10 @@ author_abc1204
 2. 依據目標對象的文章內容分別以文字雲的方式作呈現
 	* 文字雲的製作流程同前所述。
 
-RichWomen
+#### RichWomen
 ![image](http://clubfile.cupoy.com/0000017E472852B5000000026375706F795F72656C656173654B5741535354434C55424E455753/1641962487687/large)
 
-abc1204
+#### abc1204
 ![image](http://clubfile.cupoy.com/0000017E472852B5000000026375706F795F72656C656173654B5741535354434C55424E455753/1641962487688/large)
 
 四、成果
